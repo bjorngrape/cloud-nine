@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cloud-nine/static/css/main.1db2872a.chunk.css",
+    "main.js": "/cloud-nine/static/js/main.57f084f4.chunk.js",
+    "main.js.map": "/cloud-nine/static/js/main.57f084f4.chunk.js.map",
+    "runtime-main.js": "/cloud-nine/static/js/runtime-main.73281ce9.js",
+    "runtime-main.js.map": "/cloud-nine/static/js/runtime-main.73281ce9.js.map",
+    "static/css/2.2a86faee.chunk.css": "/cloud-nine/static/css/2.2a86faee.chunk.css",
+    "static/js/2.181059cd.chunk.js": "/cloud-nine/static/js/2.181059cd.chunk.js",
+    "static/js/2.181059cd.chunk.js.map": "/cloud-nine/static/js/2.181059cd.chunk.js.map",
+    "index.html": "/cloud-nine/index.html",
+    "precache-manifest.47c55c796a8d475e78bdb04f26cc19d7.js": "/cloud-nine/precache-manifest.47c55c796a8d475e78bdb04f26cc19d7.js",
+    "service-worker.js": "/cloud-nine/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/cloud-nine/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.1db2872a.chunk.css.map": "/cloud-nine/static/css/main.1db2872a.chunk.css.map",
+    "static/js/2.181059cd.chunk.js.LICENSE.txt": "/cloud-nine/static/js/2.181059cd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73281ce9.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.181059cd.chunk.js",
+    "static/css/main.1db2872a.chunk.css",
+    "static/js/main.57f084f4.chunk.js"
+  ]
+}
